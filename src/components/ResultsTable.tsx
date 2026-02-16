@@ -126,7 +126,7 @@ export function ResultsTable({ results, sessionName }: ResultsTableProps) {
                   </span>
                 </td>
                 <td className="px-4 py-3 text-sm">
-                  <span className="inline-flex px-2 py-1 text-xs font-medium rounded-full bg-purple-100 text-purple-800">
+                  <span className="inline-flex px-2 py-1 text-xs font-medium rounded-full bg-amber-100 text-amber-800">
                     {result.llm_bl_type}
                   </span>
                 </td>
